@@ -26,7 +26,7 @@ This project is intended as an educational and foundational reference for develo
 
 ## 📸 Project Preview
 
-![Chat App Screenshot](./screenshot.png)
+![Chat App Screenshot](Assets/screenshot.png)
 
 The chat interface is lightweight, responsive, and designed to work across desktop devices. This screenshot demonstrates the primary chat window as rendered on the browser.
 
@@ -105,5 +105,3 @@ If you have suggestions or improvements, feel free to fork the repository and su
 ---
 
 Thank you for checking out this project!
-
-```
